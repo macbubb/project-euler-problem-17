@@ -21,6 +21,7 @@ Think of a very small triangle, only two rows. Looking at the bottom row each no
 <p align="center">
   <img alt='2 row triangle from example' src='2_row_triangle.jpg'/>
 </p>
+
 Easy.
 
 Let's add another row of 4, 10, 2. Each of these nodes must have a max route as well, and we can use the work from the row above to find how large it is. If the route arrives at a node whose max value is already known, we don't need to calculate a max route from there to the top. Which is clear when looking at our very small triangle.

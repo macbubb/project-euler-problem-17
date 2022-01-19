@@ -1,7 +1,7 @@
 {
   "version": "0.0.0",
-  "name": "typescript-playground-export-forked",
-  "description": "TypeScript playground exported Sandbox",
+  "name": "project-euler-problem-18problem-67-solution",
+  "description": "",
   "dependencies": {
     "typescript": "4.5.4"
   },
@@ -13,5 +13,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "keywords": []
 }
